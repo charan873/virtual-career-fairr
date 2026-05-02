@@ -1,0 +1,36 @@
+{
+  "name": "virtual-career-fair",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "A Virtual Career Fair and Networking Platform",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "axios": "^1.14.0",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-router-dom": "^6.0.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.2.2",
+    "@vitejs/plugin-react": "^4.7.0",
+    "autoprefixer": "^10.4.27",
+    "eslint": "^8.0.0",
+    "eslint-plugin-react": "^7.0.0",
+    "postcss": "^8.5.8",
+    "tailwindcss": "^4.2.2",
+    "vite": "^4.5.14"
+  },
+  "keywords": [
+    "react",
+    "vite",
+    "career-fair",
+    "networking"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}
